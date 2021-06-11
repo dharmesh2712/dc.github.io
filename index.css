@@ -1,7 +1,7 @@
 body{
     margin: 0px;
     padding: 0px;
-   font-family: 'Baloo Tammudu 2', cursive; 
+   font-family: 'Baloo Tammudu 2', cursive;
 }
 html{
         scroll-behavior: smooth; 
@@ -622,7 +622,7 @@ html{
  }
  @media only screen and (max-width:650px ) {
     .login{ 
-           padding:3px 20px ;
+           padding: 3px 20px;
           }
     .try{
           width: auto;
