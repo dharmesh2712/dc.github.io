@@ -621,9 +621,7 @@ html{
 }
  }
  @media only screen and (max-width:650px ) {
-    .login{ 
-           padding: 3px 20px;
-          }
+   
     .try{
           width: auto;
           font-size: 1.2rem;
